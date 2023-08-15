@@ -1,0 +1,9 @@
+.cproduct{
+   display: flex;
+   gap: 12rem;
+   border: 1px solid black;
+   background-color: blue;
+   padding: 5px;
+   margin: 10px;
+   border-radius: 25px;
+}

@@ -1,0 +1,6 @@
+1) Its a J  S  library with the help of which we can create UI
+2) react is all about component
+3) code reusability by making component of the reusable code
+4)  SPA approch - single page approch  -> only one html page is coded and changes are made in it dynamically
+reusability , maintainability , sepreation of concern , readability
+ 

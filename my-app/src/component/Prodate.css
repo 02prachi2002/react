@@ -1,0 +1,9 @@
+.pdname{
+    border: 1px solid black;
+    background-color: aquamarine;
+    font-weight: bold;
+    padding: 20px;
+    margin: 12px;
+    border-radius: 25px;
+    text-align: center;
+}
